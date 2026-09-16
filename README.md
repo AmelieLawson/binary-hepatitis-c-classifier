@@ -32,6 +32,8 @@ The steps involved in the project are outlined below:
 7. Evaluate the model using its accuracy, ROC-AUC, and classification report.
 8. Allow the user to enter data for a new individual and generate a prediction.
 
+I learnt this method from [Scientific Computing for Chemists with Python](https://weisscharlesj.github.io/SciCompforChemists/notebooks/introduction/intro.html#) by Charles J. Weiss.
+
 ## Evaluation
 
 The metrics used the evaluate the model were as follows:
