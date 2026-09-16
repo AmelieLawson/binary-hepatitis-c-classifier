@@ -4,7 +4,7 @@ My first machine learning project using Python and scikit-learn.
 
 ## Project Overview
 
-The aim of this project was to use machine learning to classify individuals based on their age, sex, and various blood test metrics.
+The aim of this project was to use machine learning to classify individuals based on their age, sex, and various laboratory values.
 
 The original dataset labelled individuals as either blood donors, suspected blood donors, hepatitis C, fibrosis, or cirrhosis. This project was simplified to a binary classification problem where individuals were classified as either blood donors (blood donors and suspected blood donors) or hepatitis C patients (hepatitis C, fibrosis and cirrhosis).
 
@@ -12,7 +12,12 @@ The data was used to train a Random Forest Classifier model to predict whether a
 
 ## Dataset
 
-The dataset was obtained from Kaggle.
+The dataset used in this project is the Hepatitis C Prediction Dataset, obtained from Kaggle. It is not included in this repository. Place `HepatitisCdata.csv` in the same directory as `hepatitis.py` before running the program.
+
+[Hepatitis C Prediction Dataset – Kaggle]([https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset))
+
+The data was originally obtained from UCI Machine Learning Repository. It contains laboratory values for a range of blood donors and hepatitis C patients along with demographic values like age and sex.
+
 
 ## Method
 
