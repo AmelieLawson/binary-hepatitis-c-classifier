@@ -14,7 +14,7 @@ The data was used to train a Random Forest Classifier model to predict whether a
 
 The dataset used in this project is the Hepatitis C Prediction Dataset, obtained from Kaggle. It is not included in this repository. Place `HepatitisCdata.csv` in the same directory as `hepatitis.py` before running the program.
 
-[Hepatitis C Prediction Dataset – Kaggle]([https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset))
+[Hepatitis C Prediction Dataset – Kaggle](https://www.kaggle.com/datasets/fedesoriano/hepatitis-c-dataset)
 
 The data was originally obtained from UCI Machine Learning Repository. It contains laboratory values for a range of blood donors and hepatitis C patients along with demographic values like age and sex.
 
