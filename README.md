@@ -1,4 +1,4 @@
-# Hepatitis C Classifier
+# Binary Hepatitis C Classifier
 
 My first machine learning project using Python and scikit-learn.
 
