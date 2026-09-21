@@ -36,7 +36,7 @@ I learnt this method from [Scientific Computing for Chemists with Python](https:
 
 ## Evaluation
 
-The metrics used the evaluate the model were as follows:
+The metrics used to evaluate the model were as follows:
 
 - Accuracy: The proportion of test predictions which were correct.
 - ROC/AUC: A quantification of how well the model distinguished between the classes (i.e. the balance between sensitivity and rate of false positives)
